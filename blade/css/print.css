@@ -1,0 +1,40 @@
+
+/* ------------ background ------------ */
+.usual {
+	background-color: #FFF;
+	background-image: url();
+	}
+div.page {
+	width:100%;
+	margin:0;
+	padding:0;
+	}
+#main_area {
+	border :none;
+}
+/* ------------ Header elements ------------ */
+
+#header_back {
+	display:none;
+}
+
+/* ------------ Content Area ------------ */
+#centercolumn {
+	float:none;
+	width:100%;
+}
+		#cc_base {
+			width:auto;
+			margin:0;
+			padding:0;
+		}
+#page_top {
+	display:none;
+}
+#side_area {
+	display:none;
+}
+#footer_back {
+	display:none;
+}
+
